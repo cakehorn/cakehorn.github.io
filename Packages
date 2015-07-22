@@ -1,18 +1,18 @@
 Package: com.cakehorn.breakingbadsounds
 Name: Breaking Bad Sounds
-Version: 1.1
+Version: 1.2
 Architecture: iphoneos-arm
 Description: Breaking Bad Sounds
 Maintainer: Fez
 Author: Fez
 Section: Ringtones
 Filename: ./debs/com.cakehorn.breakingbadsounds.deb
-Size: 4559568
-MD5sum: ec0835f2b1a171f58adc69fc0718619f
+Size: 4559586
+MD5sum: a4a6367850cef2e61fbaa01115945a3c
 
 Package: com.cakehorn.cakehornsounds
 Name: Cakehorn Sounds
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Description: Cakehorn Sounds
 Maintainer: Fez
@@ -20,4 +20,16 @@ Author: Fez
 Section: Ringtones
 Filename: ./debs/com.cakehorn.cakehornsounds.deb
 Size: 2070438
-MD5sum: 080f034be8cd7417a7866de2c654f690
+MD5sum: a01683a7c678582cc9bc4d6d67fc2d30
+
+Package: Package: com.cakehorn.oajocktober
+Name: O&A Jocktober Sound
+Version: 1.0
+Architecture: iphoneos-arm
+Description: O&A Jocktober Sound.
+Maintainer: Fez
+Author: Fez
+Section: Ringtones
+Filename: ./debs/com.cakehorn.oajocktober.deb
+Size: 182304
+MD5sum: 362826cbcc7cc2cfa01b8e59c1a25eea
