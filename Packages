@@ -1,11 +1,23 @@
 Package: com.cakehorn.breakingbadsounds
 Name: Breaking Bad Sounds
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Description: Breaking Bad Sounds
 Maintainer: Fez
 Author: Fez
-Section: Cakehorn Sounds
-Filename: ./debs/com.breakingbadsounds.cakehorn.deb
-Size: 3021412
-MD5sum: b630b8b031ae0a58e41a6698c4d900c8
+Section: Ringtones
+Filename: ./debs/com.cakehorn.breakingbadsounds.deb
+Size: 4559568
+MD5sum: ec0835f2b1a171f58adc69fc0718619f
+
+Package: com.cakehorn.cakehornsounds
+Name: Cakehorn Sounds
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Cakehorn Sounds
+Maintainer: Fez
+Author: Fez
+Section: Ringtones
+Filename: ./debs/com.cakehorn.cakehornsounds.deb
+Size: 2070438
+MD5sum: 080f034be8cd7417a7866de2c654f690
