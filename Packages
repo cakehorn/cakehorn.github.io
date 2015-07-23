@@ -36,3 +36,16 @@ Section: Ringtones
 Filename: ./debs/com.cakehorn.oajocktober.deb
 Size: 182304
 MD5sum: 362826cbcc7cc2cfa01b8e59c1a25eea
+
+Package: com.cakehorn.louiscksounds
+Name: Louis CK Sounds
+Version: 1.1
+Architecture: iphoneos-arm
+Description: Various sounds from Louis CK
+Maintainer: Fez
+Author: Fez
+Depiction: http://cakehorn.github.io/Depic/com.cakehorn.louiscksounds/index.html
+Section: Ringtones
+Filename: ./debs/com.cakehorn.louiscksounds.deb
+Size: 3455542
+MD5sum: 1713a0a6f3a9114d609b4c0aa561879c
