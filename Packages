@@ -88,3 +88,16 @@ Section: Ringtones
 Filename: ./debs/com.cakehorn.celebrityjeopardysounds.deb
 Size: 989238
 MD5sum: 1a7636de5b783af45781335f259af9bc
+
+Package: com.cakehorn.willferrellsounds
+Name: Will Ferrell Sounds
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Will Ferrell Sounds
+Maintainer: Fez
+Author: Fez
+Depiction: http://cakehorn.github.io/Depic/com.cakehorn.willferrellsounds/index.html
+Section: Ringtones
+Filename: ./debs/com.cakehorn.willferrellsounds.deb
+Size: 981452
+MD5sum: cd8df24d87784e7f893b24107a70cbe2
