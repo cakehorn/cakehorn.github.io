@@ -75,3 +75,16 @@ Section: Ringtones
 Filename: ./debs/com.cakehorn.billoreillysounds.deb
 Size: 167448
 MD5sum: 0ba7e06d2cd87dbdf6051ac89867e113
+
+Package: com.cakehorn.celebrityjeopardysounds
+Name: Celebrity Jeopardy Sounds
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Celebrity Jeopardy Sounds
+Maintainer: Fez
+Author: Fez
+Depiction: http://cakehorn.github.io/Depic/com.cakehorn.celebrityjeopardysounds/index.html
+Section: Ringtones
+Filename: ./debs/com.cakehorn.celebrityjeopardysounds.deb
+Size: 989238
+MD5sum: 1a7636de5b783af45781335f259af9bc
