@@ -49,3 +49,16 @@ Section: Ringtones
 Filename: ./debs/com.cakehorn.louiscksounds.deb
 Size: 3455542
 MD5sum: 1713a0a6f3a9114d609b4c0aa561879c
+
+Package: com.cakehorn.camelclutch
+Name: Camel Clutch Sounds
+Version: 1.0
+Architecture: iphoneos-arm
+Description: oOoOoOoOoOoOo
+Maintainer: Fez
+Author: Fez
+Depiction: http://cakehorn.github.io/Depic/com.cakehorn.camelclutch/index.html
+Section: Ringtones
+Filename: ./debs/com.cakehorn.camelclutch.deb
+Size: 569068
+MD5sum: 19e9df4c540fdfed80b7f9b42e46157b
