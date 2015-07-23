@@ -101,3 +101,16 @@ Section: Ringtones
 Filename: ./debs/com.cakehorn.willferrellsounds.deb
 Size: 981452
 MD5sum: cd8df24d87784e7f893b24107a70cbe2
+
+Package: com.cakehorn.jbhorseshit
+Name: Jim Breuer Horseshit
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Jim Breuer Horseshit
+Maintainer: Fez
+Author: Fez
+Depiction: http://cakehorn.github.io/Depic/com.cakehorn.jbhorseshit/index.html
+Section: Ringtones
+Filename: ./debs/com.cakehorn.jbhorseshit.deb
+Size: 32516
+MD5sum: a3b9cf9bd79915a4f3115142bb8dd566
