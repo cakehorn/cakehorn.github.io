@@ -5,6 +5,7 @@ Architecture: iphoneos-arm
 Description: Breaking Bad Sounds
 Maintainer: Fez
 Author: Fez
+Depiction: http://cakehorn.github.io/Depic/com.cakehorn.breakingbadsounds/index.html
 Section: Ringtones
 Filename: ./debs/com.cakehorn.breakingbadsounds.deb
 Size: 4559586
@@ -17,6 +18,7 @@ Architecture: iphoneos-arm
 Description: Cakehorn Sounds
 Maintainer: Fez
 Author: Fez
+Depiction: http://cakehorn.github.io/Depic/com.cakehorn.cakehornsounds/index.html
 Section: Ringtones
 Filename: ./debs/com.cakehorn.cakehornsounds.deb
 Size: 2089598
@@ -29,6 +31,7 @@ Architecture: iphoneos-arm
 Description: O&A Jocktober Sound.
 Maintainer: Fez
 Author: Fez
+Depiction: http://cakehorn.github.io/Depic/com.cakehorn.oajocktober/index.html
 Section: Ringtones
 Filename: ./debs/com.cakehorn.oajocktober.deb
 Size: 182304
