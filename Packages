@@ -62,3 +62,16 @@ Section: Ringtones
 Filename: ./debs/com.cakehorn.camelclutch.deb
 Size: 569068
 MD5sum: 19e9df4c540fdfed80b7f9b42e46157b
+
+Package: com.cakehorn.billoreillysounds
+Name: Bill O'Reilly Sounds
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Bill O'Reilly Sounds
+Maintainer: Fez
+Author: Fez
+Depiction: http://cakehorn.github.io/Depic/com.cakehorn.billoreillysounds/index.html
+Section: Ringtones
+Filename: ./debs/com.cakehorn.billoreillysounds.deb
+Size: 167412
+MD5sum: 5abdf5f899221fb1351f4a82d27a72df
