@@ -1,0 +1,9 @@
+Package: com.cakehorn.louiscksounds
+Name: Louis CK Sounds
+Version: 1.1
+Architecture: iphoneos-arm
+Description: Various sounds from Louis CK
+Homepage: 
+Maintainer: Fez
+Author: Fez
+Section: Ringtones
