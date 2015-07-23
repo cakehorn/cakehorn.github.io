@@ -13,7 +13,7 @@ MD5sum: a4a6367850cef2e61fbaa01115945a3c
 
 Package: com.cakehorn.cakehornsounds
 Name: Cakehorn Sounds
-Version: 1.3
+Version: 1.4
 Architecture: iphoneos-arm
 Description: Cakehorn Sounds
 Maintainer: Fez
@@ -21,8 +21,8 @@ Author: Fez
 Depiction: http://cakehorn.github.io/Depic/com.cakehorn.cakehornsounds/index.html
 Section: Ringtones
 Filename: ./debs/com.cakehorn.cakehornsounds.deb
-Size: 2134456
-MD5sum: 79c6caa102f366d5463c10292c94fbba
+Size: 2102000
+MD5sum: 610ddfb4a6d6b88afe16ccbcae041a81
 
 Package: com.cakehorn.oajocktober
 Name: O&A Jocktober Sound
