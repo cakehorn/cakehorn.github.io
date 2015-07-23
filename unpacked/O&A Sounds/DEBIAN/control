@@ -1,0 +1,9 @@
+Package: com.cakehorn.oasounds
+Name: O&A Sounds
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Various sounds from the O&A Show
+Homepage: 
+Maintainer: Fez
+Author: Fez
+Section: Ringtones
