@@ -127,3 +127,16 @@ Section: Ringtones
 Filename: ./debs/com.cakehorn.oasounds.deb
 Size: 1795404
 MD5sum: 1c481cd268a49e93ebb3f66438a2669f
+
+Package: com.cakehorn.shitsfucked
+Name: Everybody Knows Shit's Fucked Ringtone
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Everybody Knows Shit's Fucked!
+Maintainer: Fez
+Author: Fez
+Depiction: http://cakehorn.github.io/Depic/com.cakehorn.shitsfucked/index.html
+Section: Ringtones
+Filename: ./debs/com.cakehorn.shitsfucked.deb
+Size: 817018
+MD5sum: 18f100adf3f50edd671bddc4d443155e
